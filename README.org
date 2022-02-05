@@ -1,31 +1,33 @@
 #+TITLE: Hello world in a lot of languages
 
-* List of the languages we used and it file extensions:
-+ Language | Extension
-+ ---------+----------
-+ C | .c
-+ C++ | .cpp
-+ C# | .cs
-+ Objective-C | .m
-+ Java | .java
-+ JavaScript | .js
-+ PHP | .php
-+ Python | .py
-+ Ruby | .rb
-+ Perl | .pl
-+ Bash | .sh
-+ Lua | .lua
-+ Emacs Lisp | .el
-+ Tcl | .tcl
-+ Perl 6 | .p6
-+ Racket | .rkt
-+ Common Lisp | .lisp
-+ Prolog | .plg
-+ Scheme | .scm
-+ Haskell | .hs
-+ Erlang | .erl
-+ OCaml | .ml
-+ Visual Basic | .vb
-+ Fortran | .f
-+ Ada | .adb
-+ Pike | .pike
+* List of the languages I used and it file extensions:
+| Language | Extension |
+| ---------|---------- |
+| C | .c |
+| C++ | .cpp |
+| C# | .cs |
+| Objective-C | .m |
+| Java | .java | 
+| JavaScript | .js | 
+| PHP | .php |
+| Python | .py |
+| Ruby | .rb | 
+| Perl | .pl | 
+| Bash | .sh |
+| Lua | .lua |
+| Emacs Lisp | .el |
+| Tcl | .tcl |
+| Perl 6 | .p6 |
+| Racket | .rkt |
+| Common Lisp | .lisp |
+| Prolog | .plg |
+| Scheme | .scm |
+| Haskell | .hs |
+| Erlang | .erl |
+| OCaml | .ml |
+| Visual Basic | .vb |
+| Fortran | .f |
+| Ada | .adb |
+| Pike | .pike |
+| Awk | .awk | 
+| Smalltalk | .st |
