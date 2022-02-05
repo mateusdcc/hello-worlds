@@ -2,7 +2,6 @@
 
 * List of the languages I used and it file extensions:
 | Language | Extension |
-| ---------|---------- |
 | C | .c |
 | C++ | .cpp |
 | C# | .cs |
